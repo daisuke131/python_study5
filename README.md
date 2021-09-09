@@ -19,5 +19,5 @@ $ pip install eel
 
 pyinstallerを使ってexe化させましょう。
 
-eel、pyinstallerに関してはこちらが参考になります。
+eel、pyinstallerに関してはこちらが参考になります。  
 https://qiita.com/_dakc_/items/e69e2d240a00ff08d10e
